@@ -16,6 +16,6 @@ namespace RxUI_Test.Views
 		public DetailView ()
 		{
 			InitializeComponent ();
-		}
-	}
+        }
+    }
 }

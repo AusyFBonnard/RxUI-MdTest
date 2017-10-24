@@ -7,7 +7,7 @@
                     x:TypeArguments="vms:DetailViewModel">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms! Detail"
+            <Label Text="Detail view"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

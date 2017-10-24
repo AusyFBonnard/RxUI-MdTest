@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-10-24T14:03:40.054</Modified>
+      <Modified>2017-10-24T14:29:05.219</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\bin\x86\Debug\RxUI_Test.UWP.exe">
       <PackagePath>entrypoint\RxUI_Test.UWP.exe</PackagePath>
-      <Modified>2017-10-24T14:03:38.814</Modified>
+      <Modified>2017-10-24T14:29:03.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fbonnard.AUSYNET\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -700,7 +700,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\bin\x86\Debug\Core\RxUI_Test.UWP.exe">
       <PackagePath>RxUI_Test.UWP.exe</PackagePath>
-      <Modified>2017-10-24T14:03:40.037</Modified>
+      <Modified>2017-10-24T14:29:05.202</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

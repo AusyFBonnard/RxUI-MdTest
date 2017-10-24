@@ -19,13 +19,14 @@ namespace RxUI_Test.Views
 
         public MainView()
         {
-            Router = new RoutingState();
+            Router = new RoutingState();            
             Router.NavigationStack.Add(new HomeViewModel());
             Locator.CurrentMutable.RegisterConstant(this, typeof(IScreen));            
 
             InitializeComponent();
 
             var viewHost = new ReactiveUI.XamForms.RoutedViewHost { Router = this.Router };
+            NavigationPage.SetHasNavigationBar(this, true);
             Detail = viewHost as NavigationPage;
         }
     }

@@ -6,7 +6,7 @@
                     x:Class="RxUI_Test.Views.HomeView"
                     x:TypeArguments="vms:HomeViewModel">
     <StackLayout>
-        <Label Text="Welcome to Xamarin.Forms!"
+        <Label Text="Home view"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
     </StackLayout>

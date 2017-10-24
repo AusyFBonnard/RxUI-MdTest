@@ -238,3 +238,4 @@ E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\obj\x86\Debug\ProjectArchitecture
 E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\obj\x86\Debug\RxUI_Test.UWP.E_.ProjectVS.RxUI_Test.RxUI_Test.RxUI_Test.Views.MainView.xaml.g.cs
 E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\obj\x86\Debug\RxUI_Test.UWP.E_.ProjectVS.RxUI_Test.RxUI_Test.RxUI_Test.Views.MenuView.xaml.g.cs
 E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\obj\x86\Debug\RxUI_Test.UWP.E_.ProjectVS.RxUI_Test.RxUI_Test.RxUI_Test.Views.DetailView.xaml.g.cs
+E:\ProjectVS\RxUI-Test\RxUI-Test\RxUI_Test.UWP\obj\x86\Debug\RxUI_Test.UWP.csprojResolveAssemblyReference.cache
