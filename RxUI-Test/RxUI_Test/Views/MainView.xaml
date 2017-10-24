@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rxui:ReactiveMasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+                               xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                               xmlns:rxui="clr-namespace:ReactiveUI.XamForms;assembly=ReactiveUI.XamForms"
+                               xmlns:vms="clr-namespace:RxUI_Test.ViewModels"
+                               xmlns:ui="clr-namespace:RxUI_Test.Views"
+                               x:Class="RxUI_Test.Views.MainView"
+                               x:TypeArguments="vms:MainViewModel"
+                               MasterBehavior="Popover">
+    <rxui:ReactiveMasterDetailPage.Master>
+        <ui:MenuView />
+    </rxui:ReactiveMasterDetailPage.Master>
+    <rxui:ReactiveMasterDetailPage.Detail>
+        <ContentPage />
+    </rxui:ReactiveMasterDetailPage.Detail>
+</rxui:ReactiveMasterDetailPage>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui:ContentPageBase xmlns="http://xamarin.com/schemas/2014/forms"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    xmlns:ui="clr-namespace:RxUI_Test.Views"
+                    xmlns:vms="clr-namespace:RxUI_Test.ViewModels"
+                    x:Class="RxUI_Test.Views.DetailView"
+                    x:TypeArguments="vms:DetailViewModel">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms! Detail"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ui:ContentPageBase>
